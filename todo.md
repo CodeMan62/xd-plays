@@ -4,7 +4,6 @@
 - Define initial games:
   - Snake (single‑player, web).
   - Flappy Bird (single‑player, web) – later phase.
-  - Multiplayer football‑style arena game – later phase.
 - Decide platforms (web only) and target devices.
 - Choose multiplayer type per game (turn-based vs realtime).
 - Decide if guests can play or login is required.
@@ -59,7 +58,6 @@
 ### 8. Implement Initial Games
 - Implement Game 1 – Snake (single‑player) as first MVP.
 - Plan Game 2 – Flappy Bird (single‑player) for later phase.
-- Plan Game 3 – multiplayer football‑style arena for later phase.
 - Integrate each finished game with lobby + Play page.
 - Add basic pause/exit/return‑to‑lobby behavior.
 

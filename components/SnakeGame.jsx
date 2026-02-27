@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 
 const GRID_SIZE = 20;
-const CANVAS_SIZE = 480;
+const CANVAS_SIZE = 800;
 const TILE_COUNT = CANVAS_SIZE / GRID_SIZE;
 const TICK_MS = 100;
 

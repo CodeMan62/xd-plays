@@ -1,7 +1,7 @@
 # PlayZone – Snake MVP (Next.js)
 
 This is a small Next.js app for a web arcade.  
-For now it has a single playable game: **Snake**. Flappy Bird and a multiplayer football-style arena game are planned for later.
+For now it has a single playable game: **Snake**. Future games are planned for later.
 
 ## Getting started
 

@@ -2,28 +2,19 @@
 
 ## ✅ Completed Changes
 
-### 1. Added Football Game
-- **New Game**: Football Pong - A 2-player paddle game
-- **Location**: `/games/football`
-- **Image**: Added `football.png` to `public/images/`
-- **Controls**: 
-  - Player 1: W/S keys
-  - Player 2: Arrow Up/Down keys
-  - Space: Start game
-
-### 2. Fullscreen Game Layout
+### 1. Fullscreen Game Layout
 - Games now take up the **entire screen** when playing
 - Removed all distractions and sidebars
 - Clean, focused gaming experience
 - Back button in top-left to return home
 
-### 3. Removed "How to Play" Section
+### 2. Removed "How to Play" Section
 - Removed the instructions panel from Snake game
 - Game interface is now cleaner and more spacious
 - Focus is entirely on the game canvas
 
-### 4. Updated Game Components
-Both Snake and Football now use:
+### 3. Updated Game Components
+Snake now uses:
 - `.fullscreen-game` wrapper
 - `.game-header` for title and controls
 - `.game-canvas-wrapper` for centered canvas
@@ -35,13 +26,6 @@ Both Snake and Football now use:
 - **Route**: `/games/snake`
 - **Controls**: Arrow keys or WASD
 - **Objective**: Eat food, grow longer, avoid walls and yourself
-
-### Football (Pong)
-- **Route**: `/games/football`
-- **Controls**: 
-  - Player 1 (Left): W (up), S (down)
-  - Player 2 (Right): Arrow Up/Down
-- **Objective**: First to score wins!
 
 ## 🚀 Game Layout Structure
 

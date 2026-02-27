@@ -13,12 +13,6 @@ export default function HomePage() {
       href: "/games/snake",
       gradient: "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
     },
-    {
-      title: "Football",
-      image: "/images/football.png",
-      href: "/games/football",
-      gradient: "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)"
-    },
   ];
 
   return (
